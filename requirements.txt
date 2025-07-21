@@ -1,5 +1,5 @@
-Flask==3.0.0
-tensorflow==2.12.0
-scikit-learn==1.3.0
-numpy==1.24.3
-Pillow==9.5.0
+Flask
+tensorflow
+scikit-learn
+numpy
+Pillow

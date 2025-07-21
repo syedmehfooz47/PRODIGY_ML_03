@@ -1,0 +1,5 @@
+Flask
+tensorflow
+scikit-learn
+numpy
+Pillow
